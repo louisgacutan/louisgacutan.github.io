@@ -6,7 +6,7 @@
   margin-bottom: 0px;
 }
 .toppic {
-  background-image: url(../images/logo.jpg);
+  background-image: url(../images/logo.JPG);
   background-size: cover;
   background-position: center;
   color: #936A4A;
@@ -72,7 +72,7 @@ body {
 }
 
 .twicepic {
-  background-image: url(../images/tw1.jpg);
+  background-image: url(../images/tw1.JPG);
   border-radius: 50%;
   background-size: cover;
   border: 3px #301F0D solid;
@@ -87,7 +87,7 @@ body {
 }
 .monstaxpic {
   border: 3px #301F0D solid;
-  background-image: url(../images/mx1.jpg);
+  background-image: url(../images/mx1.JPG);
   border-radius: 50%;
   background-size: cover;
 }
@@ -115,7 +115,7 @@ body {
 }
 .blackpinkpic {
   height: 35vh;
-  background-image: url(../images/bp.jpg);
+  background-image: url(../images/bp.JPG);
   border-radius: 50%;
   background-size: cover;
   border: 3px #301F0D solid;
