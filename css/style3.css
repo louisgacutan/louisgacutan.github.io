@@ -71,10 +71,10 @@ body {
   border: 4px #4b86b4 solid;
   margin:12px;
   background-size: cover;
-  background-position: center;
 }
-.bppic {
+.bppic:hover {
   background-image: url(../images/bp2.JPG);
+  background-position: top;
 }
 li:hover {
   border-radius: 50%;
