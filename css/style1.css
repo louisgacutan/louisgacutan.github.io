@@ -61,7 +61,7 @@ body {
 }
 .twicepic {
   height: 72vh;
-  background-image: url(../images/tw.jpg);
+  background-image: url(../images/tw.JPG);
   border: 4px  #F25278 solid;
   margin:12px;
   background-size: cover;
@@ -95,7 +95,7 @@ body {
   text-align: center;
 }
 .m1left {
-  background-image: url(../images/ls.jpg);
+  background-image: url(../images/ls.JPG);
   background-size: cover;
   margin: 10px;
 }
@@ -134,7 +134,7 @@ body {
   text-align: center;
 }
 .m3left {
-  background-image: url(../images/watch.jpg);
+  background-image: url(../images/watch.JPG);
   background-size: cover;
   margin: 10px;
   background-position: center;
@@ -151,7 +151,7 @@ body {
   text-align: center;
 }
 .m4left {
-  background-image: url(../images/jersey.jpg);
+  background-image: url(../images/jersey.JPG);
   background-size: cover;
   margin: 10px;
   background-position: center;
@@ -168,7 +168,7 @@ body {
   text-align: center;
 }
 .m5left {
-  background-image: url(../images/bm.jpg);
+  background-image: url(../images/bm.JPG);
   background-size: cover;
   margin: 10px;
 }
@@ -184,7 +184,7 @@ body {
   text-align: center;
 }
 .m6left {
-  background-image: url(../images/ps.jpg);
+  background-image: url(../images/ps.JPG);
   background-size: cover;
   margin: 10px;
   background-position: center;
@@ -201,7 +201,7 @@ body {
   text-align: center;
 }
 .m7left {
-  background-image: url(../images/bag.jpg);
+  background-image: url(../images/bag.JPG);
   background-size: cover;
   margin: 10px;
   background-position: center;
@@ -218,7 +218,7 @@ body {
   text-align: center;
 }
 .m8left {
-  background-image: url(../images/hs.jpg);
+  background-image: url(../images/hs.JPG);
   background-size: cover;
   margin: 10px;
 }
@@ -234,7 +234,7 @@ body {
   text-align: center;
 }
 .m9left {
-  background-image: url(../images/cap.jpg);
+  background-image: url(../images/cap.JPG);
   background-size: cover;
   margin: 10px;
   background-position: center;
