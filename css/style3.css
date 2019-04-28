@@ -1,0 +1,266 @@
+.bp {
+  height: 10vh;
+  margin: 10px 10px 0 10px;
+  grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  display: grid;
+  grid-gap: 10px;
+  text-align: center;
+  color: white;
+}
+.menu {
+  background: #adcbe3;
+  height: 70px;
+}
+.b {
+  background: #2a4d69;
+}
+.l {
+  background: #4b86b4;
+}
+.a {
+  background: #2a4d69;
+}
+.c {
+  background: #4b86b4;
+}
+.k {
+  background: #2a4d69;
+}
+.p {
+  background: #4b86b4;
+}
+.i {
+  background: #2a4d69;
+}
+.n {
+  background: #4b86b4;
+}
+.k {
+  background: #2a4d69;
+}
+.button{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  list-style: none;
+  grid-gap: 10px;
+  padding: 0px;
+  margin: 10px;
+}
+li {
+  padding: 15px;
+  background: #63ace5;
+  text-align: center;
+  color: white;
+  list-style: none;
+  margin-left: 0px;
+  text-decoration: none;
+  margin: 10px 0px 1px 0px;
+}
+a{
+  text-decoration:none;
+}
+body {
+  margin: 0px;
+  background: #e7eff6;
+  font-family: verdana;
+  color: white;
+}
+.bppic {
+  height: 72vh;
+  background-image: url(../images/bp1.jpg);
+  border: 4px #4b86b4 solid;
+  margin:12px;
+  background-size: cover;
+  background-position: center;
+}
+
+li:hover {
+  border-radius: 50%;
+  background: blue;
+}
+.line {
+  height:10vh;
+  background: #2a4d69;
+  text-align: center;
+  color: white;
+  padding: 10px;
+}
+.merchandise {
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  display:grid;
+  grid-gap: 10px;
+  margin:12px;
+}
+.m1 {
+  height: 40vh;
+  background: #4b86b4;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  color: white;
+  border: 10px #adcbe3 double;
+}
+.m1right {
+  padding:10px;
+  text-align: center;
+}
+.m1left {
+  background-image: url(../images/bpls.jpg);
+  background-size: cover;
+  margin: 10px;
+  background-position: center;
+}
+.btn {
+  padding: 7px 15px 7px 15px;
+  background: #63ace5;
+  color: white;
+  text-align: center;
+}
+.m2 {
+  height: 40vh;
+  background: #adcbe3;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  border: 10px #4b86b4 double;
+}
+
+.m2left {
+  background-image: url(../images/bpcase.png);
+  background-size: cover;
+  margin: 10px;
+  background-position: center;
+}
+.m2right {
+  padding:10px;
+  text-align: center;
+}
+.m3 {
+  height: 40vh;
+  background: #4b86b4;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  border: 10px #adcbe3 double;
+}
+.m3right {
+  padding:10px;
+  text-align: center;
+}
+.m3left {
+  background-image: url(../images/bpjc.jpg);
+  background-size: cover;
+  margin: 10px;
+  background-position: center;
+}
+.m4 {
+  height: 40vh;
+  background: #4b86b4;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  border: 10px #adcbe3 double;
+}
+.m4right {
+  padding:10px;
+  text-align: center;
+}
+.m4left {
+  background-image: url(../images/bppillow.jpg);
+  background-size: cover;
+  margin: 10px;
+  background-position: center;
+}
+.m5 {
+  height: 40vh;
+  background: #adcbe3;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  border: 10px #4b86b4 double;
+}
+.m5right {
+  padding:10px;
+  text-align: center;
+}
+.m5left {
+  background-image: url(../images/bpshirt.jpg);
+  background-size: cover;
+  margin: 10px;
+  background-position: center;
+}
+.m6 {
+  height: 40vh;
+  background: #4b86b4;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  border: 10px #adcbe3 double;
+}
+.m6right {
+  padding:10px;
+  text-align: center;
+}
+.m6left {
+  background-image: url(../images/bpmask.jpg);
+  background-size: cover;
+  margin: 10px;
+  background-position: center;
+}
+.m7 {
+  height: 40vh;
+  background: #4b86b4;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  border: 10px #adcbe3 double;
+}
+.m7right {
+  padding:10px;
+  text-align: center;
+}
+.m7left {
+  background-image: url(../images/bpbp.jpg);
+  background-size: cover;
+  margin: 10px;
+  background-position: center;
+}
+.m8 {
+  height: 40vh;
+  background: #adcbe3;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  border: 10px #4b86b4 double;
+}
+.m8right {
+  padding:10px;
+  text-align: center;
+}
+.m8left {
+  background-image: url(../images/bpcap.jpg);
+  background-size: cover;
+  margin: 10px;
+  background-position: center;
+}
+.m9 {
+  height: 40vh;
+  background: #4b86b4;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  border: 10px #adcbe3 double;
+}
+.btn:hover {
+  background: blue;
+}
+.m9right {
+  padding:10px;
+  text-align: center;
+}
+.m9left {
+  background-image: url(../images/bpbag.jpg);
+  background-size: cover;
+  margin: 10px;
+  background-position: center;
+}
+.footer {
+  height: 10vh;
+  background: #2a4d69;
+  margin: 12px;
+  color: white;
+  text-align: center;
+
+}

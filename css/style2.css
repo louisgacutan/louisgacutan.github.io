@@ -1,0 +1,266 @@
+.mx{
+  height: 10vh;
+  margin: 10px 10px 0 10px;
+  grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  display: grid;
+  grid-gap: 10px;
+  text-align: center;
+  color: white;
+}
+.menu {
+  background: #99d18f;
+  height: 70px;
+}
+.m {
+  background: #519839;
+}
+.o {
+  background: #7bc86c;
+}
+.n {
+  background: #519839;
+}
+.s {
+  background: #7bc86c;
+}
+.t {
+  background: #519839;
+}
+.a {
+  background: #7bc86c;
+}
+.space {
+  background: #519839;
+}
+.x {
+  background: #7bc86c;
+}
+.e {
+  background: #519839;
+}
+.button{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  list-style: none;
+  grid-gap: 10px;
+  padding: 0px;
+  margin: 10px;
+}
+li {
+  padding: 15px;
+  background: #519839;
+  text-align: center;
+  color: white;
+  list-style: none;
+  margin-left: 0px;
+  text-decoration: none;
+  margin: 10px 0px 1px 0px;
+}
+a{
+  text-decoration:none;
+}
+li:hover {
+  border-radius: 50%;
+  background: green;
+}
+body {
+  margin: 0px;
+  background: #d6ecd2;
+  font-family: verdana;
+  color: white;
+}
+.mxpic {
+  height: 72vh;
+  background-image: url(../images/mx.jpg);
+  border: 4px #5aac44 solid;
+  margin:12px;
+  background-size: cover;
+  background-position: top;
+}
+
+.line {
+  height:10vh;
+  background: #3f6f21;
+  text-align: center;
+  color: white;
+  padding: 10px;
+}
+.merchandise {
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  display:grid;
+  grid-gap: 10px;
+  margin:12px;
+}
+.m1 {
+  height: 40vh;
+  background: #519839;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  color: white;
+  border: 10px #7bc86c double;
+}
+.m1right {
+  padding:10px;
+  text-align: center;
+}
+.m1left {
+  background-image: url(../images/mxls.jpg);
+  background-size: cover;
+  background-position: center;
+  margin: 10px;
+}
+.btn {
+  padding: 7px 15px 7px 15px;
+  background: #d6ecd2;
+  color: white;
+  text-align: center;
+}
+.btn:hover {
+  background: #3f6f21;
+}
+.m2 {
+  height: 40vh;
+  background: #7bc86c;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  border: 10px #519839 double;
+}
+
+.m2left {
+  background-image: url(../images/mxalb.jpg);
+  background-size: cover;
+  margin: 10px;
+  background-position: center;
+}
+.m2right {
+  padding:10px;
+  text-align: center;
+}
+.m3 {
+  height: 40vh;
+  background:#519839;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  border: 10px #7bc86c double;
+}
+.m3right {
+  padding:10px;
+  text-align: center;
+}
+.m3left {
+  background-image: url(../images/mxpillow.jpg);
+  background-size: cover;
+  margin: 10px;
+  background-position: center;
+}
+.m4 {
+  height: 40vh;
+  background: #519839;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  border: 10px #7bc86c double;
+}
+.m4right {
+  padding:10px;
+  text-align: center;
+}
+.m4left {
+  background-image: url(../images/mxjersey.jpg);
+  background-size: cover;
+  margin: 10px;
+  background-position: center;
+}
+.m5 {
+  height: 40vh;
+  background:  #7bc86c;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  border: 10px #519839 double;
+}
+.m5right {
+  padding:10px;
+  text-align: center;
+}
+.m5left {
+  background-image: url(../images/mxbm.jpg);
+  background-size: cover;
+  margin: 10px;
+  background-position: center;
+}
+.m6 {
+  height: 40vh;
+  background: #519839;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  border: 10px #7bc86c double;
+}
+.m6right {
+  padding:10px;
+  text-align: center;
+}
+.m6left {
+  background-image: url(../images/mxshoes.jpg);
+  background-size: cover;
+  margin: 10px;
+  background-position: center;
+}
+.m7 {
+  height: 40vh;
+  background: #519839;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  border: 10px #7bc86c double;
+}
+.m7right {
+  padding:10px;
+  text-align: center;
+}
+.m7left {
+  background-image: url(../images/mxbag.jpg);
+  background-size: cover;
+  margin: 10px;
+  background-position: center;
+}
+.m8 {
+  height: 40vh;
+  background:  #7bc86c;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  border: 10px #519839 double;
+}
+.m8right {
+  padding:10px;
+  text-align: center;
+}
+.m8left {
+  background-image: url(../images/mxbottle.jpg);
+  background-size: cover;
+  margin: 10px;
+  background-position: center;
+}
+.m9 {
+  height: 40vh;
+  background:#519839;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  border: 10px #7bc86c double;
+}
+.m9right {
+  padding:10px;
+  text-align: center;
+}
+.m9left {
+  background-image: url(../images/mxcap.jpg);
+  background-size: cover;
+  margin: 10px;
+  background-position: center;
+}
+.footer {
+  height: 10vh;
+  background: #3f6f21;
+  margin: 12px;
+  color: white;
+  text-align: center;
+
+}

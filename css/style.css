@@ -1,0 +1,128 @@
+.top {
+  height: 30vh;
+  grid-template-columns: 1fr 6fr;
+  display: grid;
+  grid-gap: 0px;
+  margin-bottom: 0px;
+}
+.toppic {
+  background-image: url(../images/logo.jpg);
+  background-size: cover;
+  background-position: center;
+  color: #936A4A;
+  border: 2px #936A4A solid;
+}
+.w {
+    font-size: 70px;
+}
+.topname {
+  text-align: center;
+  color: #936A4A;
+  border: 2px #936A4A solid;
+}
+.button{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  list-style: none;
+  grid-gap: 8px;
+  padding: 0px;
+  margin: 4px 0px 4px 0px;
+}
+.menu {
+  background: #D5A253;
+  padding:5px;
+}
+li {
+  padding: 15px;
+  background: #744529;
+  text-align: center;
+  color: white;
+  list-style: none;
+  margin-left: 0px;
+  text-decoration: none;
+  margin: 0;
+}
+a{
+  text-decoration:none;
+}
+li:hover {
+  background: brown;
+  border-radius: 50%}
+body {
+  padding: 0px;
+  margin: 0 0 0 0;
+  color: white;
+  background: #F6ECBB;
+}
+
+.twicefront {
+  grid-template-columns:1fr 3fr;
+  display:grid;
+  grid-gap: 4px;
+  height: 35vh;
+  margin:12px;
+}
+
+.twiceinfo {
+  background: #D5A253;
+  text-align: center;
+  border: 5px #301F0D double;
+
+
+}
+
+.twicepic {
+  background-image: url(../images/tw1.jpg);
+  border-radius: 50%;
+  background-size: cover;
+  border: 3px #301F0D solid;
+  height: 35vh;
+}
+.monstaxfront {
+  grid-template-columns:3fr 1fr;
+  display:grid;
+  grid-gap: 4px;
+  height: 35vh;
+  margin:12px;
+}
+.monstaxpic {
+  border: 3px #301F0D solid;
+  background-image: url(../images/mx1.jpg);
+  border-radius: 50%;
+  background-size: cover;
+}
+.monstaxinfo {
+  height: 35vh;
+  background: #D5A253;
+  text-align: center;
+  border: 5px #301F0D double;
+
+
+}
+.blackpinkfront {
+  grid-template-columns:1fr 3fr;
+  display:grid;
+  grid-gap: 4px;
+  height: 35vh;
+  margin:17px;
+}
+.blackpinkinfo {
+  background: #D5A253;
+  text-align: center;
+  border: 5px #301F0D double;
+
+
+}
+.blackpinkpic {
+  height: 35vh;
+  background-image: url(../images/bp.jpg);
+  border-radius: 50%;
+  background-size: cover;
+  border: 3px #301F0D solid;
+}
+.footer {
+  height:18vh;
+  background: #936A4A;
+  margin: 25px 0px 12px 0px;
+  text-align: center;
+}

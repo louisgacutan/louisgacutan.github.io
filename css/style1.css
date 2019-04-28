@@ -1,0 +1,252 @@
+.twice {
+  height: 10vh;
+  margin: 10px 10px 0 10px;
+  grid-template-columns:1fr 1fr 1fr 1fr 1fr;
+  display: grid;
+  grid-gap: 10px;
+  text-align: center;
+  color: white;
+}
+.menu {
+  background: #FC94AF;
+  height: 70px;
+}
+.t {
+  background: #EA4C46;
+}
+.w {
+  background: #F07470;
+}
+.i {
+  background: #EA4C46;
+}
+.c {
+  background: #F07470;
+}
+.e {
+  background: #EA4C46;
+}
+.button{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  list-style: none;
+  grid-gap: 10px;
+  padding: 0px;
+  margin: 10px;
+}
+li:hover {
+  border-radius: 50%;
+  background: red;
+}
+li {
+  padding: 15px;
+  background: #F25278;
+  text-align: center;
+  color: white;
+  list-style: none;
+  margin-left: 0px;
+  text-decoration: none;
+  margin: 10px 0px 1px 0px;
+  background-position: bottom;
+  background-size: cover;
+}
+a{
+  text-decoration:none;
+}
+body {
+  margin: 0px;
+  background: #FFCECE;
+  font-family: verdana;
+  color: white;
+}
+.twicepic {
+  height: 72vh;
+  background-image: url(../images/tw.jpg);
+  border: 4px  #F25278 solid;
+  margin:12px;
+  background-size: cover;
+  background-position: center;
+}
+
+.line {
+  height:10vh;
+  background: #EA4C46;
+  text-align: center;
+  color: white;
+  padding: 10px;
+}
+.merchandise {
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  display:grid;
+  grid-gap: 10px;
+  margin:12px;
+}
+.m1 {
+  height: 40vh;
+  background: #CD5E77;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  color: white;
+  border: 10px #D291BC double;
+}
+.m1right {
+  padding:10px;
+  text-align: center;
+}
+.m1left {
+  background-image: url(../images/ls.jpg);
+  background-size: cover;
+  margin: 10px;
+}
+.btn {
+  padding: 7px 15px 7px 15px;
+  background: pink;
+  color: white;
+  text-align: center;
+}
+.m2 {
+  height: 40vh;
+  background: #D291BC;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  border: 10px #CD5E77 double;
+}
+
+.m2left {
+  background-image: url(../images/alb.jpg);
+  background-size: cover;
+  margin: 10px;
+}
+.m2right {
+  padding:10px;
+  text-align: center;
+}
+.m3 {
+  height: 40vh;
+  background: #CD5E77;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  border: 10px #D291BC double;
+}
+.m3right {
+  padding:10px;
+  text-align: center;
+}
+.m3left {
+  background-image: url(../images/watch.jpg);
+  background-size: cover;
+  margin: 10px;
+  background-position: center;
+}
+.m4 {
+  height: 40vh;
+  background: #CD5E77;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  border: 10px #D291BC double;
+}
+.m4right {
+  padding:10px;
+  text-align: center;
+}
+.m4left {
+  background-image: url(../images/jersey.jpg);
+  background-size: cover;
+  margin: 10px;
+  background-position: center;
+}
+.m5 {
+  height: 40vh;
+  background:  #D291BC;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  border: 10px #CD5E77 double;
+}
+.m5right {
+  padding:10px;
+  text-align: center;
+}
+.m5left {
+  background-image: url(../images/bm.jpg);
+  background-size: cover;
+  margin: 10px;
+}
+.m6 {
+  height: 40vh;
+  background: #CD5E77;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  border: 10px #D291BC double;
+}
+.m6right {
+  padding:10px;
+  text-align: center;
+}
+.m6left {
+  background-image: url(../images/ps.jpg);
+  background-size: cover;
+  margin: 10px;
+  background-position: center;
+}
+.m7 {
+  height: 40vh;
+  background: #CD5E77;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  border: 10px #D291BC double;
+}
+.m7right {
+  padding:10px;
+  text-align: center;
+}
+.m7left {
+  background-image: url(../images/bag.jpg);
+  background-size: cover;
+  margin: 10px;
+  background-position: center;
+}
+.m8 {
+  height: 40vh;
+  background:  #D291BC;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  border: 10px #CD5E77 double;
+}
+.m8right {
+  padding:10px;
+  text-align: center;
+}
+.m8left {
+  background-image: url(../images/hs.jpg);
+  background-size: cover;
+  margin: 10px;
+}
+.m9 {
+  height: 40vh;
+  background: #CD5E77;
+  grid-template-columns: 1fr 1fr;
+  display: grid;
+  border: 10px #D291BC double;
+}
+.m9right {
+  padding:10px;
+  text-align: center;
+}
+.m9left {
+  background-image: url(../images/cap.jpg);
+  background-size: cover;
+  margin: 10px;
+  background-position: center;
+}
+.footer {
+  height: 10vh;
+  background: #EA4C46;
+  margin: 12px;
+  color: white;
+  text-align: center;
+
+}
+.btn:hover {
+  background: #EA4C46;
+}
