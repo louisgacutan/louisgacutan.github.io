@@ -67,7 +67,10 @@ body {
   background-size: cover;
   background-position: center;
 }
-
+.twicepic:hover {
+  background-image: url(../images/tw1.JPG);
+  background-position: center;
+}
 .line {
   height:10vh;
   background: #EA4C46;
