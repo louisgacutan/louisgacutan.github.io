@@ -79,7 +79,8 @@ body {
   height: 35vh;
 }
 .twicepic:hover {
-  background-image: url(../images/tw1.JPG);
+  background-image: url(../images/tw.JPG);
+  background-size: cover;
 }
 .monstaxfront {
   grid-template-columns:3fr 1fr;
@@ -90,12 +91,13 @@ body {
 }
 .monstaxpic {
   border: 3px #301F0D solid;
-  background-image: url(../images/mx1.JPG);
+  background-image: url(../images/mx3.JPG);
   border-radius: 50%;
   background-size: cover;
 }
 .monstaxpic:hover {
-  background-image: url(../images/mx3.JPG);
+  background-image: url(../images/mx1.JPG);
+  background-size: cover;
 }
 .monstaxinfo {
   height: 35vh;
@@ -128,6 +130,7 @@ body {
 }
 .blackpinkpic:hover {
   background-image: url(../images/bp1.JPG);
+  background-size: cover;
 }
 .footer {
   height:18vh;
