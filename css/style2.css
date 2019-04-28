@@ -77,7 +77,9 @@ body {
   background-size: cover;
   background-position: top;
 }
-
+.mxpic:hover {
+  background-image: url(../images/mx1.JPG);
+  background-position: top;
 .line {
   height:10vh;
   background: #3f6f21;
