@@ -67,15 +67,15 @@ body {
 }
 .bppic {
   height: 72vh;
-  background-image: url(../images/bp1.JPG);
+  background-image: url(../images/bp2.JPG);
   border: 4px #4b86b4 solid;
   margin:12px;
   background-size: cover;
-  background-position: center;
+  background-position: top;
 }
 .bppic:hover {
-  background-image: url(../images/bp2.JPG);
-  background-position: top;
+  background-image: url(../images/bp1.JPG);
+  background-position: center;
 }
 li:hover {
   border-radius: 50%;
